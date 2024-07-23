@@ -2,7 +2,7 @@
 Laboratory Programs
 # FCFS Program Status
 ## FSFS Program Screen Shot
-![program Screen Shot](FSFC_599.png)
+![program Screen Shot](Experiment-9/FSFC_599.png)
 ## FCFS Input Output Screen Shot
 ![INPUT OUTPUT](IO_599.png)
 ## FCFS Testing Screen Shot
