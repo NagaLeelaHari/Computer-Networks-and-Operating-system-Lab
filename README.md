@@ -4,7 +4,7 @@ Laboratory Programs
 ## FSFS Program Screen Shot
 ![program Screen Shot](Experiment-9/FSFC_599.png)
 ## FCFS Input Output Screen Shot
-![INPUT OUTPUT](IO_599.png)
+![INPUT OUTPUT](Experiment-9/IO_599.png)
 ## FCFS Testing Screen Shot
-![TESTED INPUT OUTPUT](TO_599.png)
+![TESTED INPUT OUTPUT](Experiment-9/TO_599.png)
 
